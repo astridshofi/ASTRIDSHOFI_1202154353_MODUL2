@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Saung Bambu Resto</string>
+    <string-array name="tables_array">
+        <item>Meja Bar 101</item>
+        <item>Meja Bulat 102</item>
+        <item>Meja Bulat 103</item>
+        <item>Meja Outdoor 104</item>
+        <item>Meja Outdoor 105</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+</resources>
